@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Bala Amavasai is a walking example of an Übergeek. He loves all kinds of new technologies and gadgets. He is an electronics engineer by training and is lethal at machine learning, data science, machine vision, sensors and algorithms.
 
-### More Information
+### Talks and workshops
 
-A place to include any other types of information that you'd like to include about yourself.
+Bala has done several talks and workshops on machine learning and deep learning under the IEEE banner. If you find this reapplicable to your organisation then please contact him.
 
-### Contact me
+### Contact details
 
-[email@domain.com](mailto:email@domain.com)
+[b.p.amavasai@ieee.org](mailto:b.p.amavasai@ieee.org)
