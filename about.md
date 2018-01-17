@@ -9,7 +9,7 @@ Bala Amavasai is a walking example of an Übergeek. He loves all kinds of new te
 
 ### Talks and workshops
 
-Bala has done several talks and workshops on machine learning and deep learning under the IEEE banner. If you find this reapplicable to your organisation then please contact him.
+Bala has given several talks and workshops on machine learning and deep learning under the IEEE banner. If you think that these are reapplicable to your organisation then please contact him.
 
 ### Contact details
 
