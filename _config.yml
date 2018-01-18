@@ -90,4 +90,4 @@ exclude:
 markdown: kramdown
 
 # Theme
-theme: jekyll-theme-hacker
+theme: hacker
