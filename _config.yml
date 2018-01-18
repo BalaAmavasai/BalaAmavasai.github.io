@@ -90,4 +90,4 @@ exclude:
 markdown: kramdown
 
 # Theme
-theme: architect
+theme: jekyll-theme-architect
