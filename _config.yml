@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+# Theme
+theme: jekyll-theme-architect
+
 # Name of your site (displayed in the header)
 name: Bala Amavasai
 
@@ -89,5 +92,4 @@ exclude:
 # For MathJax
 markdown: kramdown
 
-# Theme
-theme: jekyll-theme-architect
+
