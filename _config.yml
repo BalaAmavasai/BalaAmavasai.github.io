@@ -88,3 +88,6 @@ exclude:
   
 # For MathJax
 markdown: kramdown
+
+# Theme
+theme: hacker
