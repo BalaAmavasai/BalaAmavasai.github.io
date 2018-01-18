@@ -87,4 +87,4 @@ exclude:
   - CNAME
   
 # For MathJax
-markdown: redcarpet
+markdown: kramdown
