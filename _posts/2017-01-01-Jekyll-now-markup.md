@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: Test page for math equations
+title: Jekyll now mark-up
 published: true
 ---
 
