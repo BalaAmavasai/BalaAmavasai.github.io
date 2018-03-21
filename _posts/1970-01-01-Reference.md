@@ -76,6 +76,8 @@ This is an inline formula: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$. This on
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
+Escap test: \[1\] Reference
+
 Tables
 First Header | Second Header
 ------------ | -------------
