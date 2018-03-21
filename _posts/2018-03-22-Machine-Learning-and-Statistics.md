@@ -58,5 +58,5 @@ As the field of data science is commoditised, specialisations in statistics seem
 
 And finally, whatever happened to Warren Sarle? Answers on a postcard.
 
-##References
+## References
 \[1\] Sarle, W.S. (1994), "Neural Networks and Statistical Models," Proceedings of the Nineteenth Annual SAS Users Group International Conference, Cary, NC: SAS Institute, pp 1538-1550. [Download from CiteSeerX]( http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.699)
