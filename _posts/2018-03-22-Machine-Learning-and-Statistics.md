@@ -27,7 +27,6 @@ Warren was very specific when using words like _identical_ and _closely related_
         border: 1px solid black;
         }
 </style>
-<center>
 | **Statistical term** | **Neural network literature** |
 | variables| features |
 | independent variables | inputs |
@@ -45,13 +44,13 @@ Warren was very specific when using words like _identical_ and _closely related_
 | cluster analysis | competitive learning |
 | interpolation and extrapolation | generalisation |
 {: .tablelines}
-</center>
 
 Some of the terms on the right-hand side of the table above have expanded in the new frontier of machine learning. For example supervised learning does mean more than _regression_ these days. And would you refer to the higher order neurons in deep learning networks as _interactions_? However the spirit of the paper still holds and Warren had clearly demonstrated that many a term used by the machine learning community did exist for several decades or centuries before being re-coined. I have since used the content of this paper as an intro to many of my machine learning talks. 
 
 ![ Neural Networks and Statistical Models paper by Warren Sarle, 1994]({{ site.baseurl }}/images/Article_002-Warren-Sarle-paper.png "Neural Networks and Statistical Models by Warren Sarle, 1994")
-<center>Figure 1. An extract from Warren Sarle's paper \[1\] </center>
+<center>_Figure 1. An extract from Warren Sarle's paper \[1\]_ </center>
 
+## A personal journey
 Machine learning very much takes a computational approach to a problem, where else statistics is much more systematic and analytical. Before the recent breakthroughs in deep learning, machine learning was very much seen as the wild west of computational prediction with limited applications. The outcome of that is what, I believe, produced the disconnect with statistics.
 
 When I started on my Ph.D. journey in the mid-1990s I believed that I needed to learn statistics, thanks to Warren’s paper. I was fortunate that the University had recently introduced a researcher training programme, that effectively allowed me to sit through a 1-year course in statistics that would contributes compulsory units towards a Ph.D. (the final thesis was still key). The course was given at the masters level, so included key subjects on multivariate statistics, statistical modelling, hypothesis testing etc., which I still find invaluable these days. When it came to me supervising Ph.D. student myself, I always stressed the importance of a strong grounding in statistics.
