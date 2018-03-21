@@ -76,6 +76,12 @@ This is an inline formula: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$. This on
 
 $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 
+Tables
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 Test MathJax 4: 
 In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
