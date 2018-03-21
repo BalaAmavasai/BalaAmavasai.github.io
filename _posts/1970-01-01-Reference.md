@@ -5,7 +5,7 @@ title: Jekyll now mark-up
 published: true
 ---
 
-This is a placeholder as this page is being rebuilt
+Notes for building Jekyll pages.
 
 
 
@@ -89,6 +89,29 @@ Tables
 | T | F | F |
 | F | T | F |
 | F | F | F |
+{: .tablelines}
+
+|---|---|---|
+|a  | b | c|
+| 1|2|3|
+{: .tablelines}
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+{: .tablelines}
+
+| A simple | table |
+| with multiple | lines|
 {: .tablelines}
 
 
