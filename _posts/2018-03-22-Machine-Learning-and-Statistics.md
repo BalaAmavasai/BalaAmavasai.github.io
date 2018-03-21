@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: Machine learning and statistics – an ode to Warren Sarle
+title: Machine learning and statistics – a tribute to Warren Sarle
 published: true
 ---
 
