@@ -48,6 +48,7 @@ Warren was very specific when using words like _identical_ and _closely related_
 Some of the terms on the right-hand side of the table have expanded in the new frontier of machine learning. For example supervised learning does mean more than regression these days. And would you refer to the higher order neurons in deep learning networks as _interactions_? However the spirit of the paper still holds and Warren had clearly demonstrated that many a term used by the machine learning community did exist for several decades or centuries before being re-coined. I have since used the content of this paper as an intro to many of my machine learning talks. 
 
 ![ Neural Networks and Statistical Models paper by Warren Sarle, 1994]({{ site.baseurl }}/images/Article_002-Warren-Sarle-paper.png "Neural Networks and Statistical Models by Warren Sarle, 1994")
+Figure 1. An extract from Warren Sarle's paper \[1\]
 
 Machine learning very much takes a computational approach to a problem, where else statistics is much more systematic and analytical. Before the recent breakthroughs in deep learning, machine learning was very much seen as the wild west of computational prediction with limited applications. The outcome of that is what, I believe, produced the disconnect with statistics.
 
