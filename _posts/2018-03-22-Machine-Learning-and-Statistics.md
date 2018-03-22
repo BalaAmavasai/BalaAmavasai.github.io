@@ -4,7 +4,7 @@ mathjax: true
 title: Machine learning and statistics – a tribute to Warren Sarle
 published: true
 ---
-How does machine learning and statistics connect? Have they always been related but operated in parallel worlds?...
+How does machine learning and statistics connect? Have they always been related but operated in parallel universes?...
 
 Going back to the early to mid-1990s, when I was new to the world of neural networks, one of the first places to visit when it came to discourse and learning was the [USENET]( https://en.wikipedia.org/wiki/Usenet)  newsgroup called [comp.ai.neural-nets]( https://groups.google.com/forum/#!forum/comp.ai.neural-nets). 
 
@@ -66,4 +66,5 @@ And finally, whatever happened to Warren Sarle? Answers on a postcard.
 
 ## References
 \[1\] FAQ of comp.ai.neural-nets, Last updated in 2002. [Download from sas.com]( ftp://ftp.sas.com/pub/neural/FAQ.html)
+
 \[2\] Sarle, W.S. (1994), "Neural Networks and Statistical Models," Proceedings of the Nineteenth Annual SAS Users Group International Conference, Cary, NC: SAS Institute, pp 1538-1550. [Download from CiteSeerX]( http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.699)
