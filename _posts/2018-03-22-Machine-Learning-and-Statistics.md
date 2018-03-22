@@ -4,7 +4,7 @@ mathjax: true
 title: Machine learning and statistics – a tribute to Warren Sarle
 published: true
 ---
-How does machine learning and statistics connect? Have they always been related but operated in parallel universes?...
+How does machine learning and statistics connect? Have they always been related but exist in parallel universes?...
 
 Going back to the early to mid-1990s, when I was new to the world of neural networks, one of the first places to visit when it came to discourse and learning was the [USENET]( https://en.wikipedia.org/wiki/Usenet)  newsgroup called [comp.ai.neural-nets]( https://groups.google.com/forum/#!forum/comp.ai.neural-nets). 
 
